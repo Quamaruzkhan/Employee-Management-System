@@ -1,0 +1,13 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <packaging>jar</packaging>
+  <parent>
+    <groupId>com.employee_management_system</groupId>
+    <artifactId>employee_management_system</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+  </parent>
+  <groupId>com.employee_service</groupId>
+  <artifactId>employee_service</artifactId>
+  <name>employee_service</name>
+  <description>This project contains all the employee details</description>
+</project>
